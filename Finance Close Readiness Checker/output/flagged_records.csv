@@ -1,0 +1,160 @@
+segment,country,product,discount_band,units_sold,manufacturing_price,sale_price,gross_sales,discounts,sales,cogs,profit,date,month_number,month_name,year,profit_margin,flag_missing_sales,flag_negative_profit,flag_profit_margin_anomaly,is_flagged
+Channel Partners,Canada,Montana,,2518.0,5.0,12.0,30216.0,,30216.0,7554.0,22662.0,2014-06-01,6.0,June,2014.0,0.75,False,False,True,True
+Channel Partners,germany,Montana,,1545.0,5.0,12.0,18540.0,,18540.0,4635.0,13905.0,2014-06-01,6.0,June,2014.0,0.75,False,False,True,True
+Channel Partners,   Canada,Paseo,,2518.0,10.0,12.0,30216.0,0.0,30216.0,7554.0,22662.0,2014-06-01,6.0,June,2014.0,0.75,False,False,True,True
+Channel Partners,Germany,Paseo,,367.0,10.0,12.0,4404.0,0.0,4404.0,1101.0,3303.0,2014-07-01,7.0,July,2014.0,0.75,False,False,True,True
+Channel Partners,United States of America,Paseo,,912.0,10.0,12.0,10944.0,0.0,10944.0,2736.0,8208.0,2013-11-01,11.0,November,2013.0,0.75,False,False,True,True
+Channel Partners,Germany,Velo,,2161.0,120.0,12.0,25932.0,0.0,25932.0,6483.0,19449.0,2014-03-01,3.0,March,2014.0,0.75,False,False,True,True
+Channel Partners,Germany,Velo,,1545.0,120.0,12.0,18540.0,0.0,18540.0,4635.0,13905.0,2014-06-01,6.0,June,2014.0,0.75,False,False,True,True
+Channel Partners,Germany,VTT,,2838.0,250.0,12.0,34056.0,0.0,34056.0,8514.0,25542.0,2014-04-01,4.0,April,2014.0,0.75,False,False,True,True
+Channel Partners,United States of America,Amarilla,,1953.0,260.0,12.0,23436.0,0.0,23436.0,5859.0,17577.0,2014-04-01,4.0,April,2014.0,0.75,False,False,True,True
+Channel Partners,United States of America,Amarilla,,1953.0,260.0,12.0,23436.0,0.0,23436.0,5859.0,17577.0,2014-04-01,4.0,April,2014.0,0.75,False,False,True,True
+Channel Partners,United States of America,Amarilla,,2141.0,260.0,12.0,25692.0,0.0,25692.0,6423.0,19269.0,2014-08-01,8.0,August,2014.0,0.75,False,False,True,True
+Channel Partners,United States of America,Carretera,Low,1858.0,3.0,12.0,22296.0,222.96,22073.04,5574.0,16499.04,2014-02-01,2.0,February,2014.0,0.7474747474747475,False,False,True,True
+Channel Partners,Canada,Carretera,Low,1445.0,3.0,12.0,17340.0,173.4,17166.6,4335.0,12831.6,2014-09-01,9.0,September,2014.0,0.7474747474747475,False,False,True,True
+Channel Partners,France,Carretera,Low,2671.0,3.0,12.0,32052.0,320.52,31731.48,8013.0,23718.48,2014-09-01,9.0,September,2014.0,0.7474747474747475,False,False,True,True
+Channel Partners,Germany,Carretera,Low,766.0,3.0,12.0,9192.0,91.92,9100.08,2298.0,6802.08,2013-10-01,10.0,October,2013.0,0.7474747474747475,False,False,True,True
+Channel Partners,Germany,Paseo,Low,766.0,10.0,12.0,9192.0,91.92,9100.08,2298.0,6802.08,2013-10-01,10.0,October,2013.0,0.7474747474747475,False,False,True,True
+Channel Partners,United States of America,Amarilla,Low,1989.0,260.0,12.0,23868.0,238.68,23629.32,5967.0,17662.32,2013-09-01,9.0,September,2013.0,0.7474747474747475,False,False,True,True
+Channel Partners,Canada,Carretera,Low,1295.0,3.0,12.0,15540.0,310.8,15229.2,3885.0,11344.2,2014-10-01,10.0,October,2014.0,0.7448979591836735,False,False,True,True
+Channel Partners,United States of America,Montana,Low,1142.0,5.0,12.0,13704.0,274.08,13429.92,3426.0,10003.92,2014-06-01,6.0,June,2014.0,0.7448979591836735,False,False,True,True
+Channel Partners,Mexico,Montana,Low,690.0,5.0,12.0,8280.0,165.6,8114.4,2070.0,6044.4,2014-11-01,11.0,November,2014.0,0.7448979591836734,False,False,True,True
+Channel Partners,United States of America,Paseo,Low,1142.0,10.0,12.0,13704.0,274.08,13429.92,3426.0,10003.92,2014-06-01,6.0,June,2014.0,0.7448979591836735,False,False,True,True
+Channel Partners,Canada,Paseo,Low,1295.0,10.0,12.0,15540.0,310.8,15229.2,3885.0,11344.2,2014-10-01,10.0,October,2014.0,0.7448979591836735,False,False,True,True
+Channel Partners,France,Paseo,Low,1785.0,10.0,12.0,21420.0,428.4,20991.6,5355.0,15636.6,2013-11-01,11.0,November,2013.0,0.7448979591836735,False,False,True,True
+Channel Partners,France,Paseo,Low,1055.0,10.0,12.0,12660.0,253.2,12406.8,3165.0,9241.8,2014-12-01,12.0,December,2014.0,0.7448979591836734,False,False,True,True
+Channel Partners,Mexico,Paseo,Low,1084.0,10.0,12.0,13008.0,260.16,12747.84,3252.0,9495.84,2014-12-01,12.0,December,2014.0,0.7448979591836735,False,False,True,True
+Channel Partners,France,Velo,Low,1055.0,120.0,12.0,12660.0,253.2,12406.8,3165.0,9241.8,2014-12-01,12.0,December,2014.0,0.7448979591836734,False,False,True,True
+Channel Partners,Mexico,Velo,Low,1084.0,120.0,12.0,13008.0,260.16,12747.84,3252.0,9495.84,2014-12-01,12.0,December,2014.0,0.7448979591836735,False,False,True,True
+Channel Partners,United States of America,Carretera,Low,1947.0,3.0,12.0,23364.0,700.92,22663.08,5841.0,16822.08,2014-09-01,9.0,September,2014.0,0.7422680412371134,False,False,True,True
+Channel Partners,Canada,Carretera,Low,908.0,3.0,12.0,10896.0,326.88,10569.12,2724.0,7845.12,2013-12-01,12.0,December,2013.0,0.7422680412371133,False,False,True,True
+Channel Partners,France,Montana,Low,1901.0,5.0,12.0,22812.0,684.36,22127.64,5703.0,16424.64,2014-06-01,6.0,June,2014.0,0.7422680412371134,False,False,True,True
+Channel Partners,France,Paseo,Low,1901.0,10.0,12.0,22812.0,684.36,22127.64,5703.0,16424.64,2014-06-01,6.0,June,2014.0,0.7422680412371134,False,False,True,True
+Channel Partners,United States of America,Paseo,Low,1369.5,10.0,12.0,16434.0,493.02,15940.98,4108.5,11832.48,2014-07-01,7.0,July,2014.0,0.7422680412371134,False,False,True,True
+Channel Partners,Mexico,VTT,Low,1916.0,250.0,12.0,22992.0,689.76,22302.24,5748.0,16554.24,2014-04-01,4.0,April,2014.0,0.7422680412371134,False,False,True,True
+Channel Partners,Germany,VTT,Low,2479.0,250.0,12.0,29748.0,892.44,28855.56,7437.0,21418.56,2014-01-01,1.0,January,2014.0,0.7422680412371134,False,False,True,True
+Channel Partners,United States of America,Velo,Low,1465.0,120.0,12.0,17580.0,703.2,16876.8,4395.0,12481.8,2014-03-01,3.0,March,2014.0,0.7395833333333334,False,False,True,True
+Channel Partners,France,VTT,Low,866.0,250.0,12.0,10392.0,415.68,9976.32,2598.0,7378.32,2014-05-01,5.0,May,2014.0,0.7395833333333334,False,False,True,True
+Channel Partners,Canada,Paseo,Medium,2431.0,10.0,12.0,29172.0,1458.6,27713.4,7293.0,20420.4,2014-12-01,12.0,December,2014.0,0.7368421052631579,False,False,True,True
+Channel Partners,Canada,Velo,Medium,2431.0,120.0,12.0,29172.0,1458.6,27713.4,7293.0,20420.4,2014-12-01,12.0,December,2014.0,0.7368421052631579,False,False,True,True
+Channel Partners,Mexico,Amarilla,Medium,1123.0,260.0,12.0,13476.0,673.8,12802.2,3369.0,9433.2,2014-08-01,8.0,August,2014.0,0.736842105263158,False,False,True,True
+Channel Partners,France,Carretera,Medium,1865.0,3.0,12.0,22380.0,1119.0,21261.0,5595.0,15666.0,2014-02-01,2.0,February,2014.0,0.7368421052631579,False,False,True,True
+Channel Partners,Germany,Carretera,Medium,1116.0,3.0,12.0,13392.0,669.6,12722.4,3348.0,9374.4,2014-02-01,2.0,February,2014.0,0.7368421052631579,False,False,True,True
+Channel Partners,Germany,Montana,Medium,2342.0,5.0,12.0,28104.0,1405.2,26698.8,7026.0,19672.8,2014-11-01,11.0,November,2014.0,0.7368421052631579,False,False,True,True
+Channel Partners,Mexico,Carretera,Medium,562.0,3.0,12.0,6744.0,404.64,6339.36,1686.0,4653.36,2014-09-01,9.0,September,2014.0,0.7340425531914894,False,False,True,True
+Channel Partners,Canada,Carretera,Medium,2299.0,3.0,12.0,27588.0,1655.28,25932.72,6897.0,19035.72,2013-10-01,10.0,October,2013.0,0.7340425531914894,False,False,True,True
+Channel Partners,United States of America,Montana,Medium,2723.0,5.0,12.0,32676.0,1960.56,30715.44,8169.0,22546.44,2014-11-01,11.0,November,2014.0,0.7340425531914894,False,False,True,True
+Channel Partners,Canada,Paseo,Medium,2299.0,10.0,12.0,27588.0,1655.28,25932.72,6897.0,19035.72,2013-10-01,10.0,October,2013.0,0.7340425531914894,False,False,True,True
+Channel Partners,Mexico,Carretera,Medium,727.0,3.0,12.0,8724.0,610.68,8113.32,2181.0,5932.32,2014-02-01,2.0,February,2014.0,0.7311827956989247,False,False,True,True
+Channel Partners,Canada,Carretera,Medium,1884.0,3.0,12.0,22608.0,1582.56,21025.44,5652.0,15373.44,2014-08-01,8.0,August,2014.0,0.7311827956989247,False,False,True,True
+Channel Partners,Mexico,Montana,Medium,2340.0,5.0,12.0,28080.0,1965.6,26114.4,7020.0,19094.4,2014-01-01,1.0,January,2014.0,0.7311827956989247,False,False,True,True
+Channel Partners,France,Montana,Medium,2342.0,5.0,12.0,28104.0,1967.28,26136.72,7026.0,19110.72,2014-11-01,11.0,November,2014.0,0.7311827956989247,False,False,True,True
+Channel Partners,France,VTT,Medium,1738.5,250.0,12.0,20862.0,1460.34,19401.66,5215.5,14186.16,2014-04-01,4.0,April,2014.0,0.7311827956989247,False,False,True,True
+Channel Partners,Germany,VTT,Medium,2215.0,250.0,12.0,26580.0,1860.6,24719.4,6645.0,18074.4,2013-09-01,9.0,September,2013.0,0.7311827956989247,False,False,True,True
+Channel Partners,Mexico,Paseo,Medium,2763.0,10.0,12.0,33156.0,2320.92,30835.08,8289.0,22546.08,2013-11-01,11.0,November,2013.0,0.7311827956989247,False,False,True,True
+Channel Partners,Canada,VTT,Medium,3244.5,250.0,12.0,38934.0,2725.38,36208.62,9733.5,26475.12,2014-01-01,1.0,January,2014.0,0.7311827956989246,False,False,True,True
+Channel Partners,Canada,Velo,Medium,598.0,120.0,12.0,7176.0,574.08,6601.92,1794.0,4807.92,2014-03-01,3.0,March,2014.0,0.7282608695652174,False,False,True,True
+Channel Partners,Mexico,Amarilla,Medium,1375.0,260.0,12.0,16500.0,1320.0,15180.0,4125.0,11055.0,2013-12-01,12.0,December,2013.0,0.7282608695652174,False,False,True,True
+Channel Partners,Mexico,Carretera,Medium,367.0,3.0,12.0,4404.0,396.36,4007.64,1101.0,2906.64,2013-10-01,10.0,October,2013.0,0.7252747252747253,False,False,True,True
+Channel Partners,Canada,Montana,Medium,2321.0,5.0,12.0,27852.0,2506.68,25345.32,6963.0,18382.32,2014-11-01,11.0,November,2014.0,0.7252747252747253,False,False,True,True
+Channel Partners,Mexico,Paseo,Medium,367.0,10.0,12.0,4404.0,396.36,4007.64,1101.0,2906.64,2013-10-01,10.0,October,2013.0,0.7252747252747253,False,False,True,True
+Channel Partners,Germany,Paseo,Medium,1775.0,10.0,12.0,21300.0,1917.0,19383.0,5325.0,14058.0,2013-11-01,11.0,November,2013.0,0.7252747252747253,False,False,True,True
+Channel Partners,United States of America,VTT,Medium,1956.0,250.0,12.0,23472.0,2112.48,21359.52,5868.0,15491.52,2014-01-01,1.0,January,2014.0,0.7252747252747253,False,False,True,True
+Channel Partners,Germany,VTT,Medium,880.0,250.0,12.0,10560.0,950.4,9609.6,2640.0,6969.6,2014-05-01,5.0,May,2014.0,0.7252747252747253,False,False,True,True
+Channel Partners,France,VTT,Medium,2234.0,250.0,12.0,26808.0,2412.72,24395.28,6702.0,17693.28,2013-09-01,9.0,September,2013.0,0.7252747252747253,False,False,True,True
+Channel Partners,Germany,Carretera,Medium,1580.0,3.0,12.0,18960.0,1706.4,17253.6,4740.0,12513.6,2014-09-01,9.0,September,2014.0,0.7252747252747254,False,False,True,True
+Channel Partners,France,Velo,Medium,1967.0,120.0,12.0,23604.0,2124.36,21479.64,5901.0,15578.64,2014-03-01,3.0,March,2014.0,0.7252747252747253,False,False,True,True
+Channel Partners,France,Amarilla,Medium,306.0,260.0,12.0,3672.0,330.48,3341.52,918.0,2423.52,2013-12-01,12.0,December,2013.0,0.7252747252747253,False,False,True,True
+Channel Partners,United States of America,Carretera,High,386.0,3.0,12.0,4632.0,463.2,4168.8,1158.0,3010.8,2013-10-01,10.0,October,2013.0,0.7222222222222222,False,False,True,True
+Channel Partners,United States of America,Paseo,High,386.0,10.0,12.0,4632.0,463.2,4168.8,1158.0,3010.8,2013-10-01,10.0,October,2013.0,0.7222222222222222,False,False,True,True
+Channel Partners,Canada,Amarilla,High,3520.5,260.0,12.0,42246.0,4224.6,38021.4,10561.5,27459.9,2014-04-01,4.0,April,2014.0,0.7222222222222222,False,False,True,True
+Channel Partners,Germany,Amarilla,High,2574.0,260.0,12.0,30888.0,3088.8,27799.2,7722.0,20077.2,2014-08-01,8.0,August,2014.0,0.7222222222222222,False,False,True,True
+Channel Partners,France,Carretera,High,1198.0,3.0,12.0,14376.0,1581.36,12794.64,3594.0,9200.64,2013-10-01,10.0,October,2013.0,0.7191011235955056,False,False,True,True
+Channel Partners,France,Paseo,High,1198.0,10.0,12.0,14376.0,1581.36,12794.64,3594.0,9200.64,2013-10-01,10.0,October,2013.0,0.7191011235955056,False,False,True,True
+Channel Partners,Germany,Velo,High,472.0,120.0,12.0,5664.0,623.04,5040.96,1416.0,3624.96,2014-10-01,10.0,October,2014.0,0.7191011235955056,False,False,True,True
+Channel Partners,Mexico,VTT,High,1005.0,250.0,12.0,12060.0,1326.6,10733.4,3015.0,7718.4,2013-09-01,9.0,September,2013.0,0.7191011235955056,False,False,True,True
+Channel Partners,Germany,Amarilla,High,472.0,260.0,12.0,5664.0,623.04,5040.96,1416.0,3624.96,2014-10-01,10.0,October,2014.0,0.7191011235955056,False,False,True,True
+Channel Partners,Canada,Carretera,High,1937.0,3.0,12.0,23244.0,2556.84,20687.16,5811.0,14876.16,2014-02-01,2.0,February,2014.0,0.7191011235955056,False,False,True,True
+Channel Partners,Canada,Paseo,High,4026.0,10.0,12.0,48312.0,5314.32,42997.68,12078.0,30919.68,2014-07-01,7.0,July,2014.0,0.7191011235955056,False,False,True,True
+Channel Partners,France,Paseo,High,2425.5,10.0,12.0,29106.0,3201.66,25904.34,7276.5,18627.84,2014-07-01,7.0,July,2014.0,0.7191011235955056,False,False,True,True
+Channel Partners,France,VTT,High,1734.0,250.0,12.0,20808.0,2288.88,18519.12,5202.0,13317.12,2014-01-01,1.0,January,2014.0,0.7191011235955057,False,False,True,True
+Channel Partners,Canada,VTT,High,2109.0,250.0,12.0,25308.0,3036.96,22271.04,6327.0,15944.04,2014-05-01,5.0,May,2014.0,0.7159090909090909,False,False,True,True
+Channel Partners,Mexico,Montana,High,2661.0,5.0,12.0,31932.0,3831.84,28100.16,7983.0,20117.16,2014-05-01,5.0,May,2014.0,0.7159090909090909,False,False,True,True
+Channel Partners,Canada,Amarilla,High,2761.0,260.0,12.0,33132.0,3975.84,29156.16,8283.0,20873.16,2013-09-01,9.0,September,2013.0,0.7159090909090909,False,False,True,True
+Channel Partners,Mexico,Montana,High,604.0,5.0,12.0,7248.0,942.24,6305.76,1812.0,4493.76,2014-06-01,6.0,June,2014.0,0.7126436781609196,False,False,True,True
+Channel Partners,Mexico,Paseo,High,571.0,10.0,12.0,6852.0,890.76,5961.24,1713.0,4248.24,2014-07-01,7.0,July,2014.0,0.7126436781609196,False,False,True,True
+Channel Partners,Germany,Paseo,High,1013.0,10.0,12.0,12156.0,1580.28,10575.72,3039.0,7536.72,2014-12-01,12.0,December,2014.0,0.7126436781609196,False,False,True,True
+Channel Partners,Mexico,Velo,High,604.0,120.0,12.0,7248.0,942.24,6305.76,1812.0,4493.76,2014-06-01,6.0,June,2014.0,0.7126436781609196,False,False,True,True
+Channel Partners,Mexico,Velo,High,410.0,120.0,12.0,4920.0,639.6,4280.4,1230.0,3050.4,2014-10-01,10.0,October,2014.0,0.7126436781609197,False,False,True,True
+Channel Partners,Germany,Velo,High,1013.0,120.0,12.0,12156.0,1580.28,10575.72,3039.0,7536.72,2014-12-01,12.0,December,2014.0,0.7126436781609196,False,False,True,True
+Channel Partners,Mexico,Amarilla,High,410.0,260.0,12.0,4920.0,639.6,4280.4,1230.0,3050.4,2014-10-01,10.0,October,2014.0,0.7126436781609197,False,False,True,True
+Channel Partners,Germany,Amarilla,High,1770.0,260.0,12.0,21240.0,2761.2,18478.8,5310.0,13168.8,2013-12-01,12.0,December,2013.0,0.7126436781609196,False,False,True,True
+Channel Partners,France,Paseo,High,1393.0,10.0,12.0,16716.0,2340.24,14375.76,4179.0,10196.76,2014-10-01,10.0,October,2014.0,0.7093023255813954,False,False,True,True
+Channel Partners,France,Amarilla,High,1393.0,260.0,12.0,16716.0,2340.24,14375.76,4179.0,10196.76,2014-10-01,10.0,October,2014.0,0.7093023255813954,False,False,True,True
+Channel Partners,United States of America,Amarilla,High,2015.0,260.0,12.0,24180.0,3385.2,20794.8,6045.0,14749.8,2013-12-01,12.0,December,2013.0,0.7093023255813954,False,False,True,True
+Channel Partners,United States of America,Paseo,High,2914.0,10.0,12.0,34968.0,4895.52,30072.48,8742.0,21330.48,2014-10-01,10.0,October,2014.0,0.7093023255813954,False,False,True,True
+Channel Partners,Canada,Paseo,High,2222.0,10.0,12.0,26664.0,3732.96,22931.04,6666.0,16265.04,2013-11-01,11.0,November,2013.0,0.7093023255813954,False,False,True,True
+Channel Partners,France,Amarilla,High,2475.0,260.0,12.0,29700.0,4158.0,25542.0,7425.0,18117.0,2014-08-01,8.0,August,2014.0,0.7093023255813954,False,False,True,True
+Channel Partners,United States of America,Amarilla,High,2914.0,260.0,12.0,34968.0,4895.52,30072.48,8742.0,21330.48,2014-10-01,10.0,October,2014.0,0.7093023255813954,False,False,True,True
+Channel Partners,United States of America,Paseo,High,914.0,10.0,12.0,10968.0,1645.2,9322.8,2742.0,6580.8,2014-12-01,12.0,December,2014.0,0.7058823529411765,False,False,True,True
+Channel Partners,Mexico,Velo,High,500.0,120.0,12.0,6000.0,900.0,5100.0,1500.0,3600.0,2014-03-01,3.0,March,2014.0,0.7058823529411765,False,False,True,True
+Channel Partners,United States of America,Velo,High,914.0,120.0,12.0,10968.0,1645.2,9322.8,2742.0,6580.8,2014-12-01,12.0,December,2014.0,0.7058823529411765,False,False,True,True
+Channel Partners,United States of America,VTT,High,1806.0,250.0,12.0,21672.0,3250.8,18421.2,5418.0,13003.2,2014-05-01,5.0,May,2014.0,0.7058823529411765,False,False,True,True
+Enterprise,United States of America,Montana,Medium,3627.0,5.0,125.0,453375.0,22668.75,430706.25,435240.0,-4533.75,2014-07-01,7.0,July,2014.0,-0.010526315789473684,False,True,True,True
+Enterprise,United States of America,Paseo,Medium,2992.0,10.0,125.0,374000.0,18700.0,355300.0,359040.0,-3740.0,2014-03-01,3.0,March,2014.0,-0.010526315789473684,False,True,True,True
+Enterprise,France,Paseo,Medium,2385.0,10.0,125.0,298125.0,14906.25,283218.75,286200.0,-2981.25,2014-03-01,3.0,March,2014.0,-0.010526315789473684,False,True,True,True
+Enterprise,United States of America,Paseo,Medium,861.0,10.0,125.0,107625.0,5381.25,102243.75,103320.0,-1076.25,2014-10-01,10.0,October,2014.0,-0.010526315789473684,False,True,True,True
+Enterprise,France,Paseo,Medium,704.0,10.0,125.0,88000.0,4400.0,83600.0,84480.0,-880.0,2013-10-01,10.0,October,2013.0,-0.010526315789473684,False,True,True,True
+Enterprise,Germany,Velo,Medium,807.0,120.0,125.0,100875.0,5043.75,95831.25,96840.0,-1008.75,2014-02-01,2.0,February,2014.0,-0.010526315789473684,False,True,True,True
+Enterprise,United States of America,Velo,Medium,861.0,120.0,125.0,107625.0,5381.25,102243.75,103320.0,-1076.25,2014-10-01,10.0,October,2014.0,-0.010526315789473684,False,True,True,True
+Enterprise,France,Velo,Medium,704.0,120.0,125.0,88000.0,4400.0,83600.0,84480.0,-880.0,2013-10-01,10.0,October,2013.0,-0.010526315789473684,False,True,True,True
+Enterprise,Germany,Carretera,Medium,887.0,3.0,125.0,110875.0,6652.5,104222.5,106440.0,-2217.5,2013-12-01,12.0,December,2013.0,-0.02127659574468085,False,True,True,True
+Enterprise,Canada,Velo,Medium,952.0,120.0,125.0,119000.0,7140.0,111860.0,114240.0,-2380.0,2014-02-01,2.0,February,2014.0,-0.02127659574468085,False,True,True,True
+Enterprise,United States of America,Velo,Medium,2755.0,120.0,125.0,344375.0,20662.5,323712.5,330600.0,-6887.5,2014-02-01,2.0,February,2014.0,-0.02127659574468085,False,True,True,True
+Enterprise,France,Amarilla,Medium,1987.5,260.0,125.0,248437.5,14906.25,233531.25,238500.0,-4968.75,2014-01-01,1.0,January,2014.0,-0.02127659574468085,False,True,True,True
+Enterprise,Germany,Montana,Medium,2500.0,5.0,125.0,312500.0,21875.0,290625.0,300000.0,-9375.0,2013-11-01,11.0,November,2013.0,-0.03225806451612903,False,True,True,True
+Enterprise,Germany,Paseo,Medium,3513.0,10.0,125.0,439125.0,30738.75,408386.25,421560.0,-13173.75,2014-07-01,7.0,July,2014.0,-0.03225806451612903,False,True,True,True
+Enterprise,Germany,Velo,Medium,2087.0,120.0,125.0,260875.0,18261.25,242613.75,250440.0,-7826.25,2014-09-01,9.0,September,2014.0,-0.03225806451612903,False,True,True,True
+Enterprise,Canada,Amarilla,Medium,1645.0,260.0,125.0,205625.0,14393.75,191231.25,197400.0,-6168.75,2014-05-01,5.0,May,2014.0,-0.03225806451612903,False,True,True,True
+Enterprise,Germany,Amarilla,Medium,994.0,260.0,125.0,124250.0,8697.5,115552.5,119280.0,-3727.5,2013-09-01,9.0,September,2013.0,-0.03225806451612903,False,True,True,True
+Enterprise,Mexico,Carretera,Medium,1540.0,3.0,125.0,192500.0,15400.0,177100.0,184800.0,-7700.0,2014-08-01,8.0,August,2014.0,-0.043478260869565216,False,True,True,True
+Enterprise,Mexico,Paseo,Medium,1114.0,10.0,125.0,139250.0,11140.0,128110.0,133680.0,-5570.0,2014-03-01,3.0,March,2014.0,-0.043478260869565216,False,True,True,True
+Enterprise,France,Montana,Medium,1857.0,5.0,125.0,232125.0,20891.25,211233.75,222840.0,-11606.25,2013-11-01,11.0,November,2013.0,-0.054945054945054944,False,True,True,True
+Enterprise,United States of America,Montana,Medium,2797.0,5.0,125.0,349625.0,31466.25,318158.75,335640.0,-17481.25,2014-12-01,12.0,December,2014.0,-0.054945054945054944,False,True,True,True
+Enterprise,United States of America,Paseo,Medium,2797.0,10.0,125.0,349625.0,31466.25,318158.75,335640.0,-17481.25,2014-12-01,12.0,December,2014.0,-0.054945054945054944,False,True,True,True
+Enterprise,Canada,Velo,Medium,567.0,120.0,125.0,70875.0,6378.75,64496.25,68040.0,-3543.75,2014-09-01,9.0,September,2014.0,-0.054945054945054944,False,True,True,True
+Enterprise,Mexico,Velo,Medium,2110.0,120.0,125.0,263750.0,23737.5,240012.5,253200.0,-13187.5,2014-09-01,9.0,September,2014.0,-0.054945054945054944,False,True,True,True
+Enterprise,Mexico,VTT,Medium,877.0,250.0,125.0,109625.0,9866.25,99758.75,105240.0,-5481.25,2014-11-01,11.0,November,2014.0,-0.054945054945054944,False,True,True,True
+Enterprise,United States of America,Carretera,High,3445.5,3.0,125.0,430687.5,43068.75,387618.75,413460.0,-25841.25,2014-04-01,4.0,April,2014.0,-0.06666666666666667,False,True,True,True
+Enterprise,France,Carretera,High,1482.0,3.0,125.0,185250.0,18525.0,166725.0,177840.0,-11115.0,2013-12-01,12.0,December,2013.0,-0.06666666666666667,False,True,True,True
+Enterprise,United States of America,Montana,High,1804.0,5.0,125.0,225500.0,22550.0,202950.0,216480.0,-13530.0,2013-11-01,11.0,November,2013.0,-0.06666666666666667,False,True,True,True
+Enterprise,United States of America,Velo,High,1596.0,120.0,125.0,199500.0,19950.0,179550.0,191520.0,-11970.0,2014-09-01,9.0,September,2014.0,-0.06666666666666667,False,True,True,True
+Enterprise,Canada,Velo,High,1916.0,120.0,125.0,239500.0,23950.0,215550.0,229920.0,-14370.0,2013-12-01,12.0,December,2013.0,-0.06666666666666667,False,True,True,True
+Enterprise,Mexico,VTT,High,341.0,250.0,125.0,42625.0,4262.5,38362.5,40920.0,-2557.5,2014-05-01,5.0,May,2014.0,-0.06666666666666667,False,True,True,True
+Enterprise,Canada,VTT,High,2529.0,250.0,125.0,316125.0,31612.5,284512.5,303480.0,-18967.5,2014-11-01,11.0,November,2014.0,-0.06666666666666667,False,True,True,True
+Enterprise,United States of America,Amarilla,High,579.0,260.0,125.0,72375.0,7237.5,65137.5,69480.0,-4342.5,2014-01-01,1.0,January,2014.0,-0.06666666666666667,False,True,True,True
+Enterprise,France,Carretera,High,2441.0,3.0,125.0,305125.0,33563.75,271561.25,292920.0,-21358.75,2014-10-01,10.0,October,2014.0,-0.07865168539325842,False,True,True,True
+Enterprise,France,Paseo,High,2441.0,10.0,125.0,305125.0,33563.75,271561.25,292920.0,-21358.75,2014-10-01,10.0,October,2014.0,-0.07865168539325842,False,True,True,True
+Enterprise,Mexico,VTT,High,554.0,250.0,125.0,69250.0,7617.5,61632.5,66480.0,-4847.5,2014-01-01,1.0,January,2014.0,-0.07865168539325842,False,True,True,True
+Enterprise,Germany,Amarilla,High,3165.0,260.0,125.0,395625.0,43518.75,352106.25,379800.0,-27693.75,2014-01-01,1.0,January,2014.0,-0.07865168539325842,False,True,True,True
+Enterprise,France,Amarilla,High,1433.0,260.0,125.0,179125.0,19703.75,159421.25,171960.0,-12538.75,2014-05-01,5.0,May,2014.0,-0.07865168539325842,False,True,True,True
+Enterprise,Mexico,Amarilla,High,947.0,260.0,125.0,118375.0,13021.25,105353.75,113640.0,-8286.25,2013-09-01,9.0,September,2013.0,-0.07865168539325842,False,True,True,True
+Enterprise,Canada,Carretera,High,2416.0,3.0,125.0,302000.0,36240.0,265760.0,289920.0,-24160.0,2013-09-01,9.0,September,2013.0,-0.09090909090909091,False,True,True,True
+Enterprise,Mexico,Carretera,High,2156.0,3.0,125.0,269500.0,32340.0,237160.0,258720.0,-21560.0,2014-10-01,10.0,October,2014.0,-0.09090909090909091,False,True,True,True
+Enterprise,Mexico,Paseo,High,2156.0,10.0,125.0,269500.0,32340.0,237160.0,258720.0,-21560.0,2014-10-01,10.0,October,2014.0,-0.09090909090909091,False,True,True,True
+Enterprise,United States of America,VTT,High,2387.0,250.0,125.0,298375.0,35805.0,262570.0,286440.0,-23870.0,2014-11-01,11.0,November,2014.0,-0.09090909090909091,False,True,True,True
+Enterprise,Canada,Paseo,High,1583.0,10.0,125.0,197875.0,25723.75,172151.25,189960.0,-17808.75,2014-06-01,6.0,June,2014.0,-0.10344827586206896,False,True,True,True
+Enterprise,Canada,VTT,High,1583.0,250.0,125.0,197875.0,25723.75,172151.25,189960.0,-17808.75,2014-06-01,6.0,June,2014.0,-0.10344827586206896,False,True,True,True
+Enterprise,Canada,Amarilla,High,1659.0,260.0,125.0,207375.0,26958.75,180416.25,199080.0,-18663.75,2014-01-01,1.0,January,2014.0,-0.10344827586206896,False,True,True,True
+Enterprise,France,Carretera,High,1023.0,3.0,125.0,127875.0,17902.5,109972.5,122760.0,-12787.5,2013-09-01,9.0,September,2013.0,-0.11627906976744186,False,True,True,True
+Enterprise,Mexico,Carretera,High,2821.0,3.0,125.0,352625.0,49367.5,303257.5,338520.0,-35262.5,2013-12-01,12.0,December,2013.0,-0.11627906976744186,False,True,True,True
+Enterprise,Mexico,Velo,High,1575.0,120.0,125.0,196875.0,27562.5,169312.5,189000.0,-19687.5,2014-02-01,2.0,February,2014.0,-0.11627906976744186,False,True,True,True
+Enterprise,United States of America,Amarilla,High,2844.0,260.0,125.0,355500.0,49770.0,305730.0,341280.0,-35550.0,2014-05-01,5.0,May,2014.0,-0.11627906976744186,False,True,True,True
+Enterprise,France,Carretera,High,1174.0,3.0,125.0,146750.0,22012.5,124737.5,140880.0,-16142.5,2014-08-01,8.0,August,2014.0,-0.12941176470588237,False,True,True,True
+Enterprise,Germany,Carretera,High,2767.0,3.0,125.0,345875.0,51881.25,293993.75,332040.0,-38046.25,2014-08-01,8.0,August,2014.0,-0.12941176470588237,False,True,True,True
+Enterprise,Germany,Carretera,High,1085.0,3.0,125.0,135625.0,20343.75,115281.25,130200.0,-14918.75,2014-10-01,10.0,October,2014.0,-0.12941176470588237,False,True,True,True
+Enterprise,Germany,Paseo,High,1085.0,10.0,125.0,135625.0,20343.75,115281.25,130200.0,-14918.75,2014-10-01,10.0,October,2014.0,-0.12941176470588237,False,True,True,True
+Enterprise,France,Velo,High,663.0,120.0,125.0,82875.0,12431.25,70443.75,79560.0,-9116.25,2014-09-01,9.0,September,2014.0,-0.12941176470588237,False,True,True,True
+Enterprise,United States of America,Velo,High,2438.0,120.0,125.0,304750.0,45712.5,259037.5,292560.0,-33522.5,2013-12-01,12.0,December,2013.0,-0.12941176470588237,False,True,True,True
+Enterprise,Canada,VTT,High,2954.0,250.0,125.0,369250.0,55387.5,313862.5,354480.0,-40617.5,2013-11-01,11.0,November,2013.0,-0.12941176470588237,False,True,True,True
+Enterprise,Germany,VTT,High,552.0,250.0,125.0,69000.0,10350.0,58650.0,66240.0,-7590.0,2014-11-01,11.0,November,2014.0,-0.12941176470588237,False,True,True,True

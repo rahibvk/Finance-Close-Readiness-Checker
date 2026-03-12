@@ -1,0 +1,12 @@
+Finance Close Summary
+---------------------
+Total Revenue: $119,920,182.26
+
+Data Quality Checks:
+Missing Sales Records: 0
+Negative Profit Records: 58
+Profit Margin Anomalies: 159
+
+Total Records Flagged for Review: 159
+
+Close Readiness Status: Review Required
